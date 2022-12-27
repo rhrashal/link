@@ -8,3 +8,4 @@ Report SP : https://www.aspsnippets.com/Articles/Create-RDLC-Report-using-Stored
 
 crystal report :http://www.dotnetawesome.com/2013/11/how-to-use-crystal-report-in-mvc4.html
 
+ip and lat log : https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
